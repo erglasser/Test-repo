@@ -1,5 +1,5 @@
 ## Title
-*first thing
-*second thing
+* first thing
+* second thing
 ### small title
 R practice
